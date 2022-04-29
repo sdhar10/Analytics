@@ -1,7 +1,7 @@
 # Analytics
 My journey through MS Business Analytics at Purdue
 
-![alt]
+![alt](https://github.com/sdhar10/Analytics/blob/main/Sheen%20Dhar%20Photo.jpg)
 
 [Web Data Analytics - Assignment 1](https://github.com/sdhar10/Analytics/blob/main/dhar_sheen_hw1.ipynb)
 
