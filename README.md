@@ -1,6 +1,8 @@
 # Analytics
 My journey through MS Business Analytics at Purdue
 
+![alt]
+
 [Web Data Analytics - Assignment 1](https://github.com/sdhar10/Analytics/blob/main/dhar_sheen_hw1.ipynb)
 
 -Creating and modifying lists and dictionaries
