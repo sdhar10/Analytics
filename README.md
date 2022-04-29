@@ -13,4 +13,5 @@ My journey through MS Business Analytics at Purdue
 
 -Web Scrapping 
 
-[Understanding the correlation between spend on an app with its ratings on the platform]
+[Understanding the correlation between spend on an app with its ratings on the platform](https://github.com/sdhar10/Analytics/blob/main/dhar_sheen_hw6.ipynb)
+
