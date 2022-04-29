@@ -9,11 +9,11 @@ My journey through MS Business Analytics at Purdue
 
 [Web Data Analytics - Assignment 2](https://github.com/sdhar10/Analytics/blob/main/dhar_sheen_hw2.ipynb)
 
--Using sublinks
+-Using links and sublinks in Python
 
 [Web Data Analytics - Assignment 3](https://github.com/sdhar10/Analytics/blob/main/dhar_sheen_hw3.ipynb)
 
--Web Scrapping 
+-Web Scrapping using Python 
 
 [Understanding the correlation between spend on an app with its ratings on the platform](https://github.com/sdhar10/Analytics/blob/main/Dhar_Sheen_HW6.ipynb)
 
