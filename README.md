@@ -15,5 +15,5 @@ My journey through MS Business Analytics at Purdue
 
 [Understanding the correlation between spend on an app with its ratings on the platform](https://github.com/sdhar10/Analytics/blob/main/Dhar_Sheen_HW6.ipynb)
 
-[alt]!(
+![alt](https://github.com/sdhar10/Analytics/blob/main/HW6.png)
 
